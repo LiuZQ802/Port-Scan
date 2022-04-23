@@ -3,7 +3,7 @@
 """
 @Project :  main.py
 @File    :  scan2
-@Author  :  刘子琦
+@Author  :  677
 @Data    :  2022/4/23
 @Description:
     高级命令行的端口扫描器
